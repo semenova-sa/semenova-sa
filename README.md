@@ -24,7 +24,7 @@ ________________________________________
 
 ### Проекты (портфолио)
 
-- Дипломная работа по специальности "Системный аналитик" (https://github.com/semenova-sa/diplom)
+- Дипломная работа по теме «Мобильное приложение «Мой оператор связи»»  (https://github.com/semenova-sa/diplom)
 - Тестовые задания компаний (https://github.com/semenova-sa/testtask)
 - Сбор требований ([https://github.com/miu/flydata](https://github.com/semenova-sa/portfolio-uchebnoe/blob/main/1.%20treb/README.md))
 - Моделирование бизнес-процессов (https://github.com/semenova-sa/portfolio-uchebnoe/blob/main/3.%20modbizproc/readme.md)
