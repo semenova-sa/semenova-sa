@@ -27,6 +27,7 @@ ________________________________________
 - Дипломная работа по специальности "Системный аналитик" (https://github.com/semenova-sa/diplom)
 - Тестовые задания компаний (https://github.com/semenova-sa/testtask)
 - Сбор требований (https://github.com/miu/flydata)
+- Моделирование бизнес-процессов (
 - SQL (postgres, mysql) [Итоговая работа по курсу SQL и получение данных] (https://github.com)
 - Python (https://github.com/)
 
