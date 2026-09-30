@@ -31,9 +31,8 @@ ________________________________________
 - Моделирование бизнес-процессов (https://github.com/semenova-sa/portfolio-uchebnoe/blob/main/3.%20modbizproc/readme.md)
 - Документирование в IT-проектах (https://github.com/semenova-sa/portfolio-uchebnoe/tree/main/4.%20Document)
 - Интеграция систем и документирование API
-- SQL (postgres) [Итоговая работа по курсу SQL и получение данных] (https://github.com)
-- Python (https://github.com/)
-
+- SQL (postgres) [Итоговая работа по курсу SQL и получение данных] 
+- Python
 ### Сертификаты/ дипломы Нетологии
 
 - Python https://github.com//mru/blob/main/python.pdf
