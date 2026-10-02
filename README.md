@@ -25,6 +25,7 @@ ________________________________________
 ### Проекты (портфолио)
 
 - Мобильное приложение «Мой оператор связи»  (https://github.com/semenova-sa/diplom)
+- Приложение «Запись на приём» для медицинской клиники (https://github.com/semenova-sa/portfolio-uchebnoe/blob/main/4.%20Document/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B8%D0%B5%D0%BC/1.%20%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5.md
 - Тестовые задания компаний (https://github.com/semenova-sa/testtask)
 - Сбор требований (https://github.com/semenova-sa/portfolio-uchebnoe/blob/main/1.%20treb/README.md)
 - Прототипирование интерфейсов (https://github.com/semenova-sa/portfolio-uchebnoe/tree/main/2.%20prototip)
