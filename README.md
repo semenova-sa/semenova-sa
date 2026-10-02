@@ -28,7 +28,7 @@ ________________________________________
 - Приложение «Запись на приём» для медицинской клиники (https://github.com/semenova-sa/portfolio/tree/main/4.%20Document/zapis_na_priem)
 - Тестовые задания компаний (https://github.com/semenova-sa/testtask)
 - Сбор требований (https://github.com/semenova-sa/portfolio/blob/main/1.%20treb/spisok.md)
-- Прототипирование интерфейсов (https://github.com/semenova-sa/portfolio-uchebnoe/tree/main/2.%20prototip)
+- Прототипирование интерфейсов (https://github.com/semenova-sa/portfolio/blob/main/2.%20prototip/uchet_rash.md)
 - Моделирование бизнес-процессов (https://github.com/semenova-sa/portfolio/blob/main/3.%20modbizproc/readme.md)
 - Документирование в IT-проектах (https://github.com/semenova-sa/portfolio-uchebnoe/tree/main/4.%20Document)
 - Интеграция систем и документирование API
